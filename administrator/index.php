@@ -87,6 +87,7 @@
                     include "pagecontent/footer.php";
                 ?>
                 <!-------------------END FOOTER---------------------->
+                <!------------------- add the changes file---------------------->
             </div>
         </div>
         </body>
