@@ -10,7 +10,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="instingdigital : www.instingdigital.net" />
-    <title>Sistem Reservasi :: Login Page</title>
+    <title>Sistem Reservasi Soka Indah:: Login Page</title>
     <link rel="stylesheet" type="text/css" href="css/login.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="css/validationEngine.jquery.css" media="screen" />
     <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
